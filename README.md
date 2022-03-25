@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou Afonso Sabino</h1>
-<h3 align="center">Estudante de Data Science</h3>
+<h1 align="center">Oi 👋, meu nome é Afonso Sabino</h1>
+<h3 align="center">Sou estudante de Data Science</h3>
 
 - Atualmente estou aprendendo **SQL, Python, Machine Learning**
 
