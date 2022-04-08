@@ -1,11 +1,13 @@
 <h1 align="center">Oi 👋, meu nome é Afonso Sabino</h1>
-<h3 align="center">Sou estudante de Data Science</h3>
+<h3 align="center">Estou no inicio da minha jornada como Desenvolvedor Web</h3>
 
-- Atualmente estou aprendendo **SQL, Python, Machine Learning**
+- Conhecimento em **HTML, CSS e JavaScript**
+
+- Atualmente estou aprendendo **JavaScript Intermediario, Node.JS, ReactJS**
 
 - Você me acha através do email **afonsosabinoo@gmail.com**
 
-- Minha Experiências [https://www.linkedin.com/in/afonso-sabino-4a865ab3/](https://www.linkedin.com/in/afonso-sabino-4a865ab3/)
+- Minha Experiências [https://www.linkedin.com/in/afonso-sabino/](https://www.linkedin.com/in/afonso-sabino/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
